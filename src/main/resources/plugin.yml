@@ -1,0 +1,15 @@
+name: RCresPortals
+version: 1.7
+main: me.rvt.rcresportals.RCresPortals
+api-version: 1.13
+depend: [Residence]
+authors: [RvT]
+description: Custom Portals, can be used only in Residences!
+website: rebrovocraft.info
+commands:
+  portal:
+    description: Gives you the portal key
+    usage: /portal
+permissions:
+  resportals.use:
+    description: Allows players to build portals
